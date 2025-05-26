@@ -1,0 +1,10 @@
+
+curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+sudo yum install -y nodejs
+
+Blue Wings, [5/14/2025 11:48 AM]
+npm init -y
+npm install express
+
+Blue Wings, [5/14/2025 11:48 AM]
+node app.js
